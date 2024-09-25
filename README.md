@@ -14,7 +14,7 @@ To write a program to predict the price of the house and number of occupants in 
 4. Predict and evaluate the model using Mean Squared Error, display results.
 
 ## Program:
-```
+```py
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
 Developed by: MOHAMED ABRAR M
